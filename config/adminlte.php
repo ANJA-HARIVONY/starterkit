@@ -63,7 +63,7 @@ return [
     |
     */
 
-    'logo' => '<b>ANJA-HARIVONY</b>LTE',
+    'logo' => '<b>ANJA-HARIVONY</b>',
     'logo_img' => 'vendor/adminlte/dist/img/AdminLTELogo.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
@@ -314,9 +314,7 @@ return [
         [
             'text'        => 'Home',
             'url'         => 'admin/pages',
-            'icon'        => 'far fa-fw fa-file',
-            'label'       => 4,
-            'label_color' => 'success',
+            'icon'        => 'far fa-fw fa-list',
         ],
         ['header' => 'account_settings'],
         [
